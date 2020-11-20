@@ -1,0 +1,12 @@
+OPEN=1
+CLOSE=2
+SLASH_CLOSE=3
+EQUALS=4
+STRING=5
+SlashName=6
+Name=7
+S=8
+'<'=1
+'>'=2
+'/>'=3
+'='=4
